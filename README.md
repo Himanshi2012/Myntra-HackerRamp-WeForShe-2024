@@ -2,7 +2,7 @@
 
 Welcome to the Myntra HackerRamp: WeForShe 2024 project repository. This project aims to enhance the shopping experience on Myntra with innovative features like real-time image generation, personalized recommendations, and more.
 
-![Myntra Logo](path_to_your_image)
+![Myntra-Logo](https://github.com/user-attachments/assets/b4769ec0-6c1e-4275-a8e2-46b136b693ac)
 
 
 
@@ -20,9 +20,11 @@ Myntra HackerRamp: WeForShe 2024 is designed to provide users with a more engagi
 - Increased crowd on the platform as one person can bring more people to get reviews.
 - Offline shopping experience.
 
-![Screenshot (187)](https://github.com/user-attachments/assets/5f8c5d9e-65a1-48ef-bf05-e640bf63f672)
+![image](https://github.com/user-attachments/assets/7396bb15-5251-4571-b3a9-93a2f7183504)
 
-![Screenshot (188)](https://github.com/user-attachments/assets/7f94f41a-8962-4f33-89f0-5add0e143e72)
+
+![image](https://github.com/user-attachments/assets/4cdfc932-9796-4ae0-b467-9c8a883c4d54)
+
 
 
 #### Real-Time Image Generation
@@ -30,7 +32,9 @@ Myntra HackerRamp: WeForShe 2024 is designed to provide users with a more engagi
 - Encourages habitual use as users return to the app to try on new products virtually.
 - Adds an element of fun, making shopping more enjoyable.
 
-![Screenshot (190)](https://github.com/user-attachments/assets/87a92845-fcda-4b2f-a279-b5fefb61bab8)
+
+![image](https://github.com/user-attachments/assets/2ad9017c-b0c6-4909-ae15-457b099d05f2)
+
 
 ### Trend-Centric Recommendations
 
@@ -43,6 +47,10 @@ Myntra HackerRamp: WeForShe 2024 is designed to provide users with a more engagi
 - Recommends styles that complement each user's body type, improving overall style.
 - Increased engagement of influencers as they can share knowledge about styling and clothing on one app.
 
-![Screenshot (179)](https://github.com/user-attachments/assets/ab58224d-f3f4-451f-9b67-982b8289e5df)
+![image](https://github.com/user-attachments/assets/19c6ed21-893a-4dc5-916b-6a0c2d31670e)
 
-![Screenshot (189)](https://github.com/user-attachments/assets/210cb6f7-31a6-4367-a282-2b8c851e0014)
+
+
+![image](https://github.com/user-attachments/assets/2205658f-3111-426f-8d0a-15aad4237cc3)
+
+
